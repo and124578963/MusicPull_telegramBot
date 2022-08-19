@@ -1,1 +1,5 @@
-# pusicPull_telegramBot
+# musicPull_telegramBot </br>
+Телеграм бот для голосования за музыку на корпоративах. </br>
+Использует выгрузку музыки из VK Music для прослушивания перед голосованием. </br>
+
+https://t.me/Music_pool_bot </br>
